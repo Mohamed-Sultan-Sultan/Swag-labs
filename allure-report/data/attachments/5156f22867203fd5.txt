@@ -1,0 +1,11 @@
+[INFO] 06-10-2024 14:54:24 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:33)] - null
+[INFO] 06-10-2024 14:54:28 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:35)] - Edge driver is opened
+[INFO] 06-10-2024 14:54:29 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:37)] - Page is redirected to the URL
+[INFO] 06-10-2024 14:54:29 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 14:54:30 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case checkoutStepTwoTC started
+[INFO] 06-10-2024 14:54:31 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products: 6
+[INFO] 06-10-2024 14:54:33 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:57)] - fTest-2024-10-06-02-54-21PM lTest-2024-10-06-02-54-21PM 44062
+[INFO] 06-10-2024 14:54:33 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:34)] - Calculated Total Price: 140.34
+[INFO] 06-10-2024 14:54:33 [main] [Pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:29)] - Actual Total Price: 140.34
+[INFO] 06-10-2024 14:54:33 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case checkoutStepTwoTC passed
+[INFO] 06-10-2024 14:54:35 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed

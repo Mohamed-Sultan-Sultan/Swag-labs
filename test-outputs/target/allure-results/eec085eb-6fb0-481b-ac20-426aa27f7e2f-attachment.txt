@@ -1,0 +1,4 @@
+[INFO] 06-10-2024 14:55:54 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:33)] - null
+[INFO] 06-10-2024 14:55:59 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:35)] - Edge driver is opened
+[INFO] 06-10-2024 14:56:01 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:37)] - Page is redirected to the URL
+[INFO] 06-10-2024 14:56:01 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed

@@ -1,0 +1,4 @@
+[INFO] 14-10-2024 15:21:05 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:30)] - null
+[INFO] 14-10-2024 15:21:09 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:32)] - Edge driver is opened
+[INFO] 14-10-2024 15:21:10 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:34)] - Page is redirected to the URL
+[INFO] 14-10-2024 15:21:10 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed

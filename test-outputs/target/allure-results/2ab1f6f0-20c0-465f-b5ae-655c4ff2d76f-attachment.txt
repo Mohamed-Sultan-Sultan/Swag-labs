@@ -1,0 +1,4 @@
+[INFO] 14-10-2024 14:40:49 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:30)] - null
+[INFO] 14-10-2024 14:40:54 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:32)] - Edge driver is opened
+[INFO] 14-10-2024 14:40:55 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:34)] - Page is redirected to the URL
+[INFO] 14-10-2024 14:40:58 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case login passed

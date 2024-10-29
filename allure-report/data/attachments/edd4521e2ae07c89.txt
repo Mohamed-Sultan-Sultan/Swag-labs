@@ -1,0 +1,8 @@
+[INFO] 14-10-2024 14:43:27 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:33)] - null
+[INFO] 14-10-2024 14:43:31 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:35)] - Edge driver is opened
+[INFO] 14-10-2024 14:43:32 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:37)] - Page is redirected to the URL
+[INFO] 14-10-2024 14:43:32 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 14-10-2024 14:43:33 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case finishOrderTC started
+[INFO] 14-10-2024 14:43:34 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products: 6
+[INFO] 14-10-2024 14:43:36 [main] [Tests.TC06_FinishingOrderTest.finishOrderTC(TC06_FinishingOrderTest.java:57)] - fTest-2024-10-14-02-43-24PM lTest-2024-10-14-02-43-24PM 90475
+[INFO] 14-10-2024 14:43:36 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case finishOrderTC passed

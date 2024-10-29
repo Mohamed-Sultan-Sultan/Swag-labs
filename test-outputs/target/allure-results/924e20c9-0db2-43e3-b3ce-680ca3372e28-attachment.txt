@@ -1,0 +1,14 @@
+[INFO] 14-10-2024 14:40:17 [main] [Tests.TC01_validLoginTest.setup(TC01_validLoginTest.java:31)] - null
+[INFO] 14-10-2024 14:40:22 [main] [Tests.TC01_validLoginTest.setup(TC01_validLoginTest.java:33)] - edge driver is opened
+[INFO] 14-10-2024 14:40:24 [main] [Tests.TC01_validLoginTest.setup(TC01_validLoginTest.java:35)] - Page is redirected to the URL
+[INFO] 14-10-2024 14:40:24 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 14-10-2024 14:40:24 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case validLoginTC started
+[INFO] 14-10-2024 14:40:25 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case validLoginTC passed
+[INFO] 14-10-2024 14:40:27 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 14-10-2024 14:40:27 [main] [Tests.TC07_InvalidLoginTest.setup(TC07_InvalidLoginTest.java:30)] - null
+[INFO] 14-10-2024 14:40:30 [main] [Tests.TC07_InvalidLoginTest.setup(TC07_InvalidLoginTest.java:32)] - edge driver is opened
+[INFO] 14-10-2024 14:40:31 [main] [Tests.TC07_InvalidLoginTest.setup(TC07_InvalidLoginTest.java:34)] - Page is redirected to the URL
+[INFO] 14-10-2024 14:40:31 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 14-10-2024 14:40:31 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case InvalidLoginTC started
+[INFO] 14-10-2024 14:40:32 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case InvalidLoginTC failed
+[INFO] 14-10-2024 14:40:34 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed

@@ -1,0 +1,4 @@
+[INFO] 06-10-2024 14:53:52 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:36)] - null
+[INFO] 06-10-2024 14:53:56 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:38)] - Edge driver is opened
+[INFO] 06-10-2024 14:53:57 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:40)] - Page is redirected to the URL
+[INFO] 06-10-2024 14:53:57 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed

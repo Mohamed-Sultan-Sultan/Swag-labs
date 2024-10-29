@@ -1,0 +1,127 @@
+[INFO] 06-10-2024 20:23:42 [main] [Tests.TC01_validLoginTest.setup(TC01_validLoginTest.java:31)] - null
+[INFO] 06-10-2024 20:23:46 [main] [Tests.TC01_validLoginTest.setup(TC01_validLoginTest.java:33)] - edge driver is opened
+[INFO] 06-10-2024 20:23:48 [main] [Tests.TC01_validLoginTest.setup(TC01_validLoginTest.java:35)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:23:48 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:23:48 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case validLoginTC started
+[INFO] 06-10-2024 20:23:50 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case validLoginTC passed
+[INFO] 06-10-2024 20:23:52 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:23:52 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:30)] - null
+[INFO] 06-10-2024 20:23:54 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:32)] - Edge driver is opened
+[INFO] 06-10-2024 20:23:56 [main] [Tests.TC02_LandingTest.login(TC02_LandingTest.java:34)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:23:58 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case login passed
+[INFO] 06-10-2024 20:23:58 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:48)] - null
+[INFO] 06-10-2024 20:24:00 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 20:24:01 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:02 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:02 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case addingRandomProductsToCartTC started
+[INFO] 06-10-2024 20:24:02 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 2
+[INFO] 06-10-2024 20:24:02 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 4
+[INFO] 06-10-2024 20:24:02 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 5
+[INFO] 06-10-2024 20:24:03 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart: 3
+[INFO] 06-10-2024 20:24:03 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:54)] - selected products: 3
+[INFO] 06-10-2024 20:24:03 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case addingRandomProductsToCartTC passed
+[INFO] 06-10-2024 20:24:04 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:04 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:48)] - null
+[INFO] 06-10-2024 20:24:06 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 20:24:07 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:08 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:08 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 06-10-2024 20:24:09 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products: 6
+[INFO] 06-10-2024 20:24:09 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart: 6
+[INFO] 06-10-2024 20:24:09 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:54)] - selected products: 6
+[INFO] 06-10-2024 20:24:09 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case checkingNumberOfSelectedProductsTC passed
+[INFO] 06-10-2024 20:24:11 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:11 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:48)] - null
+[INFO] 06-10-2024 20:24:13 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 20:24:14 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:15 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:15 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case clickOnCartIcon started
+[INFO] 06-10-2024 20:24:15 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case clickOnCartIcon passed
+[INFO] 06-10-2024 20:24:16 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:16 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case deleteSession passed
+[INFO] 06-10-2024 20:24:16 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:30)] - null
+[INFO] 06-10-2024 20:24:18 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:32)] - Edge driver is opened
+[INFO] 06-10-2024 20:24:19 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:34)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:19 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:19 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case comparingPricesTC started
+[INFO] 06-10-2024 20:24:20 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 2
+[INFO] 06-10-2024 20:24:20 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 6
+[INFO] 06-10-2024 20:24:20 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:90)] - Total Price 25.98
+[INFO] 06-10-2024 20:24:21 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:31)] - Total Price 25.98
+[INFO] 06-10-2024 20:24:21 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case comparingPricesTC passed
+[INFO] 06-10-2024 20:24:22 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:22 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:36)] - null
+[INFO] 06-10-2024 20:24:24 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:38)] - Edge driver is opened
+[INFO] 06-10-2024 20:24:25 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:40)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:25 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:25 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case checkoutStepOneTC started
+[INFO] 06-10-2024 20:24:26 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 1
+[INFO] 06-10-2024 20:24:26 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 3
+[INFO] 06-10-2024 20:24:27 [main] [Tests.TC04_CheckoutTest.checkoutStepOneTC(TC04_CheckoutTest.java:60)] - fTest-2024-10-06-08-23-39PM lTest-2024-10-06-08-23-39PM 58112
+[INFO] 06-10-2024 20:24:27 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case checkoutStepOneTC passed
+[INFO] 06-10-2024 20:24:29 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:29 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:33)] - null
+[INFO] 06-10-2024 20:24:30 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:35)] - Edge driver is opened
+[INFO] 06-10-2024 20:24:32 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:37)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:32 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:32 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case checkoutStepTwoTC started
+[INFO] 06-10-2024 20:24:33 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products: 6
+[INFO] 06-10-2024 20:24:34 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:57)] - fTest-2024-10-06-08-23-40PM lTest-2024-10-06-08-23-40PM 25209
+[INFO] 06-10-2024 20:24:35 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:34)] - Calculated Total Price: 140.34
+[INFO] 06-10-2024 20:24:35 [main] [Pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:29)] - Actual Total Price: 140.34
+[INFO] 06-10-2024 20:24:35 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case checkoutStepTwoTC passed
+[INFO] 06-10-2024 20:24:36 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:36 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:33)] - null
+[INFO] 06-10-2024 20:24:38 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:35)] - Edge driver is opened
+[INFO] 06-10-2024 20:24:39 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:37)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:39 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:39 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case finishOrderTC started
+[INFO] 06-10-2024 20:24:40 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products: 6
+[INFO] 06-10-2024 20:24:42 [main] [Tests.TC06_FinishingOrderTest.finishOrderTC(TC06_FinishingOrderTest.java:57)] - fTest-2024-10-06-08-23-40PM lTest-2024-10-06-08-23-40PM 11617
+[INFO] 06-10-2024 20:24:42 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case finishOrderTC passed
+[INFO] 06-10-2024 20:24:44 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:44 [main] [Tests.TC07_InvalidLoginTest.setup(TC07_InvalidLoginTest.java:30)] - null
+[INFO] 06-10-2024 20:24:45 [main] [Tests.TC07_InvalidLoginTest.setup(TC07_InvalidLoginTest.java:32)] - edge driver is opened
+[INFO] 06-10-2024 20:24:46 [main] [Tests.TC07_InvalidLoginTest.setup(TC07_InvalidLoginTest.java:34)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:24:46 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:24:47 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case InvalidLoginTC started
+[INFO] 06-10-2024 20:24:54 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case InvalidLoginTC failed
+[INFO] 06-10-2024 20:24:58 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:24:58 [main] [Tests.TC08_InvalidLandingTest.login(TC08_InvalidLandingTest.java:30)] - null
+[INFO] 06-10-2024 20:25:01 [main] [Tests.TC08_InvalidLandingTest.login(TC08_InvalidLandingTest.java:32)] - Edge driver is opened
+[INFO] 06-10-2024 20:25:03 [main] [Tests.TC08_InvalidLandingTest.login(TC08_InvalidLandingTest.java:34)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:25:05 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case login passed
+[INFO] 06-10-2024 20:25:05 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:48)] - null
+[INFO] 06-10-2024 20:25:07 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 20:25:08 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:25:09 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:25:09 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case addingRandomProductsToCartTC started
+[INFO] 06-10-2024 20:25:09 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 3
+[INFO] 06-10-2024 20:25:09 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 4
+[INFO] 06-10-2024 20:25:10 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 6
+[ERROR] 06-10-2024 20:25:15 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:46)] - Expected condition failed: waiting for visibility of element located by By.className: shopping_cart_badge (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52143}, msedge: {msedgedriverVersion: 129.0.2792.52 (6462e8fc16ec..., userDataDir: C:\Users\Ahmed\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52143/devtoo..., se:cdpVersion: 129.0.2792.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ff1596e191316e70ec678a4a8805c08
+[INFO] 06-10-2024 20:25:15 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:54)] - selected products: 0
+[INFO] 06-10-2024 20:25:15 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case addingRandomProductsToCartTC passed
+[INFO] 06-10-2024 20:25:17 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:25:17 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:48)] - null
+[INFO] 06-10-2024 20:25:19 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 20:25:20 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:25:21 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:25:21 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 06-10-2024 20:25:21 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products: 6
+[INFO] 06-10-2024 20:25:22 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart: 3
+[INFO] 06-10-2024 20:25:22 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:54)] - selected products: 3
+[INFO] 06-10-2024 20:25:22 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case checkingNumberOfSelectedProductsTC passed
+[INFO] 06-10-2024 20:25:23 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 20:25:23 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:48)] - null
+[INFO] 06-10-2024 20:25:25 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 20:25:27 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 20:25:28 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 20:25:28 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case clickOnCartIcon started
+[INFO] 06-10-2024 20:25:28 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case clickOnCartIcon passed
+[INFO] 06-10-2024 20:25:30 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed

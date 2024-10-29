@@ -1,0 +1,30 @@
+[INFO] 06-10-2024 19:46:49 [main] [Tests.TC08_InvalidLandingTest.login(TC08_InvalidLandingTest.java:30)] - null
+[INFO] 06-10-2024 19:46:53 [main] [Tests.TC08_InvalidLandingTest.login(TC08_InvalidLandingTest.java:32)] - Edge driver is opened
+[INFO] 06-10-2024 19:46:53 [main] [Tests.TC08_InvalidLandingTest.login(TC08_InvalidLandingTest.java:34)] - Page is redirected to the URL
+[INFO] 06-10-2024 19:46:56 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case login passed
+[INFO] 06-10-2024 19:46:56 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:48)] - null
+[INFO] 06-10-2024 19:46:58 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 19:47:00 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 19:47:00 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 19:47:01 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case addingRandomProductsToCartTC started
+[INFO] 06-10-2024 19:47:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 2
+[INFO] 06-10-2024 19:47:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 3
+[INFO] 06-10-2024 19:47:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber 6
+[INFO] 06-10-2024 19:47:01 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart: 1
+[INFO] 06-10-2024 19:47:01 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:54)] - selected products: 1
+[INFO] 06-10-2024 19:47:01 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case addingRandomProductsToCartTC passed
+[INFO] 06-10-2024 19:47:03 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 19:47:03 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:48)] - null
+[INFO] 06-10-2024 19:47:05 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 19:47:06 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 19:47:07 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 06-10-2024 19:47:07 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 06-10-2024 19:47:07 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products: 6
+[INFO] 06-10-2024 19:47:08 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart: 3
+[INFO] 06-10-2024 19:47:08 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:54)] - selected products: 3
+[INFO] 06-10-2024 19:47:08 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case checkingNumberOfSelectedProductsTC passed
+[INFO] 06-10-2024 19:47:10 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 06-10-2024 19:47:10 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:48)] - null
+[INFO] 06-10-2024 19:47:12 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:50)] - Edge driver is opened
+[INFO] 06-10-2024 19:47:13 [main] [Tests.TC08_InvalidLandingTest.setup(TC08_InvalidLandingTest.java:52)] - Page is redirected to the URL
+[INFO] 06-10-2024 19:47:14 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
